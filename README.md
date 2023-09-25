@@ -1,1 +1,1 @@
-# html.sematico
+# html.semantico
